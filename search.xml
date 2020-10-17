@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>無理頭之旅</title>
-    <url>/2020/10/17/Second-Post/</url>
-    <content><![CDATA[<h1 id="20201010-MORING"><a href="#20201010-MORING" class="headerlink" title="20201010 - MORING"></a>20201010 - MORING</h1><h2 id="行程-不知道XDDDDDDD"><a href="#行程-不知道XDDDDDDD" class="headerlink" title="行程:不知道XDDDDDDD"></a>行程:不知道XDDDDDDD</h2><h2 id="集合時間-11-00"><a href="#集合時間-11-00" class="headerlink" title="集合時間:11:00"></a>集合時間:11:00</h2><p>* </p>
+    <title>Hello World</title>
+    <url>/2020/10/12/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -11,7 +23,9 @@
     <url>/2020/10/12/First-Post/</url>
     <content><![CDATA[<p><marquee scrollamount="10"  bgcolor="#C4E1FF">😺🙈🐵🐶🐺🐱🦁🐯🦒🦊🦝🐮🐷🐗🐭🐹🐰🐻🐨🐼🐸🦓🐴🦄🐔🐲🐽🐒🦧🦍🦮🐕‍🦺🐩🐕🐈🐅🐆🐎🦌🦏🦛🐪🐐🐑🐏🐖🐄🐃🐂🐫🦙🦘🦥🦨🦡🐘🐁🐍🐢🐊🦎🐿🐇🦔🐀🐉🦕🦖🦦🦈🐬🐳🐋🦀🦞🐙🦑🦐🐡🐠🐟🐚🦆🐓🦃🦅🕊🦢🦜🐣🐤🐥🐧🐦🦉🦚🦩🦇🦋🐌🐛🦟🦗🐜🐝🐞🦂🕷😺🙈🐵🐶🐺🐱🦁🐯🦒🦊🦝🐮🐷🐗🐭🐹🐰🐻🐨🐼🐸🦓🐴🦄🐔🐲🐽🐒🦧🦍🦮🐕‍🦺🐩🐕🐈🐅🐆🐎🦌🦏🦛🐪🐐🐑🐏🐖🐄🐃🐂🐫🦙🦘🦥🦨🦡🐘🐁🐍🐢🐊🦎🐿🐇🦔🐀🐉🦕🦖🦦🦈🐬🐳🐋🦀🦞🐙🦑🦐🐡🐠🐟🐚🦆🐓🦃🦅🕊🦢🦜🐣🐤🐥🐧🐦🦉🦚🦩🦇🦋🐌🐛🦟🦗🐜🐝🐞🦂🕷😺🙈🐵🐶🐺🐱🦁🐯🦒🦊🦝🐮🐷🐗🐭🐹🐰🐻🐨🐼🐸🦓🐴🦄🐔🐲🐽🐒🦧🦍🦮🐕‍🦺🐩🐕🐈🐅🐆🐎🦌🦏🦛🐪🐐🐑🐏🐖🐄🐃🐂🐫🦙🦘🦥🦨🦡🐘🐁🐍🐢🐊🦎🐿🐇🦔🐀🐉🦕🦖🦦🦈🐬🐳🐋🦀🦞🐙🦑🦐🐡🐠🐟🐚🦆🐓🦃🦅🕊🦢🦜🐣🐤🐥🐧🐦🦉🦚🦩🦇🦋🐌🐛🦟🦗🐜🐝🐞🦂🕷</marquee></p>
 <h1 id="暑假帶隊趣"><a href="#暑假帶隊趣" class="headerlink" title="暑假帶隊趣"></a>暑假帶隊趣</h1><p><marquee scrollamount="10"  bgcolor="#C4E1FF">😺🙈🐵🐶🐺🐱🦁🐯🦒🦊🦝🐮🐷🐗🐭🐹🐰🐻🐨🐼🐸🦓🐴🦄🐔🐲🐽🐒🦧🦍🦮🐕‍🦺🐩🐕🐈🐅🐆🐎🦌🦏🦛🐪🐐🐑🐏🐖🐄🐃🐂🐫🦙🦘🦥🦨🦡🐘🐁🐍🐢🐊🦎🐿🐇🦔🐀🐉🦕🦖🦦🦈🐬🐳🐋🦀🦞🐙🦑🦐🐡🐠🐟🐚🦆🐓🦃🦅🕊🦢🦜🐣🐤🐥🐧🐦🦉🦚🦩🦇🦋🐌🐛🦟🦗🐜🐝🐞🦂🕷😺🙈🐵🐶🐺🐱🦁🐯🦒🦊🦝🐮🐷🐗🐭🐹🐰🐻🐨🐼🐸🦓🐴🦄🐔🐲🐽🐒🦧🦍🦮🐕‍🦺🐩🐕🐈🐅🐆🐎🦌🦏🦛🐪🐐🐑🐏🐖🐄🐃🐂🐫🦙🦘🦥🦨🦡🐘🐁🐍🐢🐊🦎🐿🐇🦔🐀🐉🦕🦖🦦🦈🐬🐳🐋🦀🦞🐙🦑🦐🐡🐠🐟🐚🦆🐓🦃🦅🕊🦢🦜🐣🐤🐥🐧🐦🦉🦚🦩🦇🦋🐌🐛🦟🦗🐜🐝🐞🦂🕷😺🙈🐵🐶🐺🐱🦁🐯🦒🦊🦝🐮🐷🐗🐭🐹🐰🐻🐨🐼🐸🦓🐴🦄🐔🐲🐽🐒🦧🦍🦮🐕‍🦺🐩🐕🐈🐅🐆🐎🦌🦏🦛🐪🐐🐑🐏🐖🐄🐃🐂🐫🦙🦘🦥🦨🦡🐘🐁🐍🐢🐊🦎🐿🐇🦔🐀🐉🦕🦖🦦🦈🐬🐳🐋🦀🦞🐙🦑🦐🐡🐠🐟🐚🦆🐓🦃🦅🕊🦢🦜🐣🐤🐥🐧🐦🦉🦚🦩🦇🦋🐌🐛🦟🦗🐜🐝🐞🦂🕷</marquee></p>
-<h2 id="活動-夜宿動物園"><a href="#活動-夜宿動物園" class="headerlink" title="活動 : 夜宿動物園"></a>活動 : 夜宿動物園</h2><h2 id="地點-高雄市立壽山動物園"><a href="#地點-高雄市立壽山動物園" class="headerlink" title="地點 : 高雄市立壽山動物園"></a>地點 : 高雄市立壽山動物園</h2><h2 id="時間-2020年7-8月"><a href="#時間-2020年7-8月" class="headerlink" title="時間 : 2020年7-8月"></a>時間 : 2020年7-8月</h2><h2 id="內容"><a href="#內容" class="headerlink" title="內容 :"></a>內容 :</h2><h3 id="帶著來自全台各地的國小1-6年級學生體驗夜宿動物園的活動，像是爬山、餵食動物、夜遊、團康闖關遊戲……等每一梯次為期兩天一夜"><a href="#帶著來自全台各地的國小1-6年級學生體驗夜宿動物園的活動，像是爬山、餵食動物、夜遊、團康闖關遊戲……等每一梯次為期兩天一夜" class="headerlink" title="帶著來自全台各地的國小1-6年級學生體驗夜宿動物園的活動，像是爬山、餵食動物、夜遊、團康闖關遊戲……等每一梯次為期兩天一夜"></a>帶著來自全台各地的國小1-6年級學生體驗夜宿動物園的活動，像是爬山、餵食動物、夜遊、團康闖關遊戲……等每一梯次為期兩天一夜</h3><h2 id="心得"><a href="#心得" class="headerlink" title="心得 :"></a>心得 :</h2><h3 id="一個暑假下來帶了好幾百位小朋友，大家都來自全台各地，每個人的個性不同各自也都有自己的獨特風格，有的活潑可愛、有的活潑可惡-、有的安靜乖巧、有的像過動……等等，因為如此讓這營隊也增添的色彩，雖然說過程真的很累，但因為要帶著他們所以不能把疲累感表現出來，哈哈我自己的堅持哈哈，雖然說常常都已經-出神了XDDDDDDD，但我就這樣一直撐到最後一梯次。過程中有許多的風雨和差錯，但有那些學長姊還有老大的幫助都順利的解決了，而且也從中學習到很多事情還有小細節。而整個活動下來，回憶真的多到講不完，-所以就不一一贅述了。但有一個一定要分享的是，壽山的野生獼猴真的超多的拉，走在人行道上就會有猴子坐在欄杆上休息-但其實他們有可能是在等搶食的時機-可以在洗手台看到他們開水玩水真的很可愛，雖然說他們很可愛，但兇起來真的很可惡，威嚇搶食攻擊樣樣來，所以為了安全在帶小孩們的時候我身上都有一支漆彈空氣槍，看到猴子就可以做驅趕的動作，這真的很好玩，但聲音有點大聲就是了。會想分享這個是因為從高中打靶後再也沒有甚麼機會玩到槍，這次就因為驅趕猴子開了蠻多槍超爽的-哈哈希望還有機會去玩～～～"><a href="#一個暑假下來帶了好幾百位小朋友，大家都來自全台各地，每個人的個性不同各自也都有自己的獨特風格，有的活潑可愛、有的活潑可惡-、有的安靜乖巧、有的像過動……等等，因為如此讓這營隊也增添的色彩，雖然說過程真的很累，但因為要帶著他們所以不能把疲累感表現出來，哈哈我自己的堅持哈哈，雖然說常常都已經-出神了XDDDDDDD，但我就這樣一直撐到最後一梯次。過程中有許多的風雨和差錯，但有那些學長姊還有老大的幫助都順利的解決了，而且也從中學習到很多事情還有小細節。而整個活動下來，回憶真的多到講不完，-所以就不一一贅述了。但有一個一定要分享的是，壽山的野生獼猴真的超多的拉，走在人行道上就會有猴子坐在欄杆上休息-但其實他們有可能是在等搶食的時機-可以在洗手台看到他們開水玩水真的很可愛，雖然說他們很可愛，但兇起來真的很可惡，威嚇搶食攻擊樣樣來，所以為了安全在帶小孩們的時候我身上都有一支漆彈空氣槍，看到猴子就可以做驅趕的動作，這真的很好玩，但聲音有點大聲就是了。會想分享這個是因為從高中打靶後再也沒有甚麼機會玩到槍，這次就因為驅趕猴子開了蠻多槍超爽的-哈哈希望還有機會去玩～～～" class="headerlink" title="一個暑假下來帶了好幾百位小朋友，大家都來自全台各地，每個人的個性不同各自也都有自己的獨特風格，有的活潑可愛、有的活潑可惡(?、有的安靜乖巧、有的像過動……等等，因為如此讓這營隊也增添的色彩，雖然說過程真的很累，但因為要帶著他們所以不能把疲累感表現出來，哈哈我自己的堅持哈哈，雖然說常常都已經 出神了XDDDDDDD，但我就這樣一直撐到最後一梯次。過程中有許多的風雨和差錯，但有那些學長姊還有老大的幫助都順利的解決了，而且也從中學習到很多事情還有小細節。而整個活動下來，回憶真的多到講不完， 所以就不一一贅述了。但有一個一定要分享的是，壽山的野生獼猴真的超多的拉，走在人行道上就會有猴子坐在欄杆上休息(但其實他們有可能是在等搶食的時機)可以在洗手台看到他們開水玩水真的很可愛，雖然說他們很可愛，但兇起來真的很可惡，威嚇搶食攻擊樣樣來，所以為了安全在帶小孩們的時候我身上都有一支漆彈空氣槍，看到猴子就可以做驅趕的動作，這真的很好玩，但聲音有點大聲就是了。會想分享這個是因為從高中打靶後再也沒有甚麼機會玩到槍，這次就因為驅趕猴子開了蠻多槍超爽的!!!哈哈希望還有機會去玩～～～"></a>一個暑假下來帶了好幾百位小朋友，大家都來自全台各地，每個人的個性不同各自也都有自己的獨特風格，有的<b>活潑可愛、有的活潑可惡(?、有的安靜乖巧、有的像過動</b>……等等，因為如此讓這營隊也增添的色彩，雖然說過程真的很累，但因為要帶著他們所以不能把疲累感表現出來，哈哈我自己的堅持哈哈，雖然說常常都已經 <strong>出神</strong>了XDDDDDDD，但我就這樣一直撐到最後一梯次。過程中有許多的風雨和差錯，但有那些學長姊還有老大的幫助都順利的解決了，而且也從中學習到很多事情還有小細節。而整個活動下來，回憶真的多到講不完， 所以就不一一贅述了。但有一個一定要分享的是，壽山的野生獼猴真的超多的拉，走在人行道上就會有猴子坐在欄杆上休息(但其實他們有可能是在等搶食的時機)可以在洗手台看到他們開水玩水真的很可愛，雖然說他們很可愛，但兇起來真的很可惡，威嚇搶食攻擊樣樣來，所以為了安全在帶小孩們的時候我身上都有一支漆彈空氣槍，看到猴子就可以做驅趕的動作，這真的很好玩，但聲音有點大聲就是了。會想分享這個是因為從高中打靶後再也沒有甚麼機會玩到槍，這次就因為驅趕猴子開了蠻多槍超爽的!!!哈哈希望還有機會去玩～～～</h3><ul>
+<h2 id="活動-夜宿動物園"><a href="#活動-夜宿動物園" class="headerlink" title="活動 : 夜宿動物園"></a>活動 : 夜宿動物園</h2><h2 id="地點-高雄市立壽山動物園"><a href="#地點-高雄市立壽山動物園" class="headerlink" title="地點 : 高雄市立壽山動物園"></a>地點 : 高雄市立壽山動物園</h2><h2 id="時間-2020年7-8月"><a href="#時間-2020年7-8月" class="headerlink" title="時間 : 2020年7-8月"></a>時間 : 2020年7-8月</h2><h2 id="內容"><a href="#內容" class="headerlink" title="內容 :"></a>內容 :</h2><p>   帶著來自全台各地的國小1-6年級學生體驗夜宿動物園的活動，像是爬山、餵食動物、夜遊、團康闖關遊戲……等每一梯次為期兩天一夜</p>
+<h2 id="心得"><a href="#心得" class="headerlink" title="心得 :"></a>心得 :</h2><p>   一個暑假下來帶了好幾百位小朋友，大家都來自全台各地，每個人的個性不同各自也都有自己的獨特風格，有的<b>活潑可愛、有的活潑可惡(?、有的安靜乖巧、有的像過動</b>……等等，因為如此讓這營隊也增添的色彩，雖然說過程真的很累，但因為要帶著他們所以不能把疲累感表現出來，哈哈我自己的堅持哈哈，雖然說常常都已經 <strong>出神</strong>了XDDDDDDD，但我就這樣一直撐到最後一梯次。過程中有許多的風雨和差錯，但有那些學長姊還有老大的幫助都順利的解決了，而且也從中學習到很多事情還有小細節。而整個活動下來，回憶真的多到講不完， 所以就不一一贅述了。但有一個一定要分享的是，壽山的野生獼猴真的超多的拉，走在人行道上就會有猴子坐在欄杆上休息(但其實他們有可能是在等搶食的時機)可以在洗手台看到他們開水玩水真的很可愛，雖然說他們很可愛，但兇起來真的很可惡，威嚇搶食攻擊樣樣來，所以為了安全在帶小孩們的時候我身上都有一支漆彈空氣槍，看到猴子就可以做驅趕的動作，這真的很好玩，但聲音有點大聲就是了。會想分享這個是因為從高中打靶後再也沒有甚麼機會玩到槍，這次就因為驅趕猴子開了蠻多槍超爽的!!!哈哈希望還有機會去玩～～～</p>
+<ul>
 <li><h2 id="活動照片"><a href="#活動照片" class="headerlink" title="活動照片"></a>活動照片</h2>  <p>
       <b><li>活動中少之又少的合照</li></b>
       <img src="https://i.imgur.com/jThKxNi.jpg" border="5" width=100%>
@@ -42,21 +56,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/10/12/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>無理頭之旅</title>
+    <url>/2020/10/17/Second-Post/</url>
+    <content><![CDATA[<h1 id="20201010-MORING"><a href="#20201010-MORING" class="headerlink" title="20201010 - MORING"></a>20201010 - MORING</h1><h2 id="行程-不知道XDDDDDDD"><a href="#行程-不知道XDDDDDDD" class="headerlink" title="行程:不知道XDDDDDDD"></a>行程:不知道XDDDDDDD</h2><h2 id="集合時間-11-00"><a href="#集合時間-11-00" class="headerlink" title="集合時間:11:00"></a>集合時間:11:00</h2><p>* </p>
 ]]></content>
   </entry>
 </search>
